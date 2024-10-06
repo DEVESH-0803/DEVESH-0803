@@ -28,12 +28,12 @@
 
 - 👾 I use Linux OS, it gives me the freedom and ease I could not find in Windows.
 
-- 💻 Currently using Pop Os (open-source Linux distribution, based upon Ubuntu) on bspwm themed . You can find my dotfiles [here](https://github.com/SpeedyAstro/dotfiles)
+- 💻 Currently using Pop Os (open-source Linux distribution, based upon Ubuntu) on bspwm themed . You can find my dotfiles [here](https://github.com/DEVESH-0803/dotfiles)
 
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DEVESH-0803&theme=dark)](https://github.com/budennovsk/leetcode-stats)
 
-<a href="http://www.github.com/SpeedyAstro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SpeedyAstro&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/SpeedyAstro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DEVESH-0803&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 - Connect with me 
 <a href="mailto:" target="_blank"><img src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" width="29" height="29" /></a>&nbsp; &nbsp; 

@@ -10,10 +10,10 @@
 
 
 ## 💡 About
-<a href="https://github.com/Mr-Anubhav-pandey">
+<a href="https://github.com/DEVESH-0803">
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=SpeedyAstro&show_icons=true&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A">
-  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=SpeedyAstro&theme=holi-theme&hide_border=true&border_radius=22&fire=DD2727)](https://git.io/streak-stats">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpeedyAstro&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="SpeedyAstro" />
+  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=DEVESH-0803&theme=holi-theme&hide_border=true&border_radius=22&fire=DD2727)](https://git.io/streak-stats">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVESH-0803&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="SpeedyAstro" />
 </a>
 
 - 📓 average college CE student. Good in coding, bad in circuits
@@ -31,10 +31,9 @@
 - 💻 Currently using Pop Os (open-source Linux distribution, based upon Ubuntu) on bspwm themed . You can find my dotfiles [here](https://github.com/SpeedyAstro/dotfiles)
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mr-Anubhav-pandey&theme=dark)](https://github.com/budennovsk/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DEVESH-0803&theme=dark)](https://github.com/budennovsk/leetcode-stats)
 
 <a href="http://www.github.com/SpeedyAstro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SpeedyAstro&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 - Connect with me 
-<a href="mailto:pandeyanubhav888@gmail.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" width="29" height="29" /></a>&nbsp; &nbsp; 
-- Discord - Speedy Astro#1624
+<a href="mailto:" target="_blank"><img src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" width="29" height="29" /></a>&nbsp; &nbsp; 

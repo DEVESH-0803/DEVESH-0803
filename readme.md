@@ -11,7 +11,7 @@
 
 ## 💡 About
 <a href="https://github.com/DEVESH-0803">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=SpeedyAstro&show_icons=true&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=DEVESH-0803&show_icons=true&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A">
   <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=DEVESH-0803&theme=holi-theme&hide_border=true&border_radius=22&fire=DD2727)](https://git.io/streak-stats">
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVESH-0803&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="SpeedyAstro" />
 </a>
@@ -33,7 +33,7 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DEVESH-0803&theme=dark)](https://github.com/budennovsk/leetcode-stats)
 
-<a href="http://www.github.com/SpeedyAstro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DEVESH-0803&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/DEVESH-0803"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DEVESH-0803&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 - Connect with me 
 <a href="mailto:" target="_blank"><img src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" width="29" height="29" /></a>&nbsp; &nbsp; 

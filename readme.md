@@ -10,10 +10,10 @@
 
 ## 💡 About Me
 
-👋 Hi, I’m **Devesh Pratap Singh**, a **Full Stack Developer** passionate about building scalable and user-focused web applications.  
-I specialize in **Java (Spring Boot)** on the backend and **React / Next.js** on the frontend.  
+Hi, I’m **Devesh Pratap Singh**, a **Full Stack Developer** passionate about building scalable and user-focused web applications.  
+I specialize in **Java (Spring Boot)** on the backend and **React** on the frontend.  
 
-I enjoy transforming complex ideas into clean, functional, and maintainable code — whether it’s crafting intuitive UIs or optimizing backend performance.
+I enjoy transforming complex ideas into clean, functional, and maintainable code whether it’s crafting intuitive UIs or optimizing backend performance.
 
 - 💻 I work with modern web stacks: Java, Spring Boot, React, Next.js, and Tailwind CSS  
 - 🚀 Currently exploring advanced backend systems, cloud deployment, and microservices  
